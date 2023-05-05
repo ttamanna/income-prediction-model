@@ -1,0 +1,42 @@
+﻿sex-codes,,,workclass-codes,,,race-codes,,,native-country_codes,
+Female,1,,Federal-gov,1,, Amer-Indian-Eskimo,1,, Cambodia,1
+Male,2,,Local-gov,2,, Asian-Pac-Islander,2,, Canada,2
+,,,Never-worked,3,, Black,3,, China,3
+,,, Private,4,, Other,4,, Columbia,4
+income-codes,,, Self-emp-inc,5,, White,5,, Cuba,5
+<=50K,1,, Self-emp-not-inc,6,,,,, Dominican-Republic,6
+>50K,2,, State-gov,7,,,,, Ecuador,7
+,,, Without-pay,8,,marital-status_codes,,, El-Salvador,8
+,,,,,, Divorced,1,, England,9
+education-num,,,,,, Married-AF-spouse,2,, France,10
+Preschool,1,,occupation-codes,,, Married-civ-spouse,3,, Germany,11
+1st-4th,2,, Adm-clerical,1,, Married-spouse-absent,4,, Greece,12
+5th-6th,3,, Armed-Forces,2,, Never-married,5,, Guatemala,13
+7th-8th,4,, Craft-repair,3,, Separated,6,, Haiti,14
+9th,5,, Exec-managerial,4,, Widowed,7,, Holand-Netherlands,15
+10th,6,, Farming-fishing,5,,,,, Honduras,16
+11th,7,, Handlers-cleaners,6,,,,, Hong,17
+12th,8,, Machine-op-inspct,7,,relationship-codes,,, Hungary,18
+HS-grad,9,, Other-service,8,, Husband,1,, India,19
+Some-college,10,, Priv-house-serv,9,, Not-in-family,2,, Iran,20
+Assoc-voc,11,, Prof-specialty,10,, Other-relative,3,, Ireland,21
+Assoc-acdm,12,, Protective-serv,11,, Own-child,4,, Italy,22
+Bachelors ,13,, Sales,12,, Unmarried,5,, Jamaica,23
+Masters,14,, Tech-support,13,, Wife,6,, Japan,24
+Prof-school ,15,, Transport-moving,14,,,,, Laos,25
+Doctorate,16,,,,,,,, Mexico,26
+,,,,,,,,, Nicaragua,27
+,,,,,,,,, Outlying-US(Guam-USVI-etc),28
+,,,,,,,,, Peru,29
+,,,,,,,,, Philippines,30
+,,,,,,,,, Poland,31
+,,,,,,,,, Portugal,32
+,,,,,,,,, Puerto-Rico,33
+,,,,,,,,, Scotland,34
+,,,,,,,,, South,35
+,,,,,,,,, Taiwan,36
+,,,,,,,,, Thailand,37
+,,,,,,,,, Trinadad&Tobago,38
+,,,,,,,,, United-States,39
+,,,,,,,,, Vietnam,40
+,,,,,,,,, Yugoslavia,41
